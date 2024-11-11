@@ -8,6 +8,13 @@ Let's say you want to practice solving problem `D` of `Div. 2`, then you can go 
 
 This repo was last updated on **11/11/2024** and includes the past **30** contests of each division.
 
+**Here is a plot because why not?!**
+![problem_rating_comparison_by_division](plots/problem_rating_comparison_by_division.png)
+<!-- ![div1_rating_dist](plots/div1_rating_dist.png)
+![div2_rating_dist](plots/div2_rating_dist.png)
+![div3_rating_dist](plots/div3_rating_dist.png) -->
+
+
 ## Table of Contents
 
 - [Div. 1 Problems](#div-1)
